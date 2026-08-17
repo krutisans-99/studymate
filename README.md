@@ -1,5 +1,4 @@
 # StudyMate - Student Study Assistant
-# Beginner Python Portfolio Project
 
 import json
 from datetime import datetime
